@@ -146,11 +146,11 @@
     <string name="donation_free_info">Im Play Store bewerten</string>
     <string name="donation_support_info">Unterstütze die Entwicklung</string>
     <string name="donation_tea_info">Tee kaufen</string>
-    <string name="donation_latte_info">Kaufe mir Latte/Kaffee</string>
+    <string name="donation_latte_info">Kaufe mir ein/-en Latte/Kaffee</string>
     <string name="donation_breakfast_info">Frühstück kaufen</string>
-    <string name="donation_movie_info">Kaufe mir Film-Ticket</string>
-    <string name="donation_dinner_info">Kaufe mir Pizza und einen Koks</string>
-    <string name="donation_ads_info">Hilf mir, die App frei zu halten</string>
-    <string name="donation_all_apps_info">Hilf mir Apps zu erstellen</string>
-    <string name="donation_super_info">Super Duper Unterstützung &#10084;\nDiese Spende geht zu einem neuen Testgerät und einem neuen Laptop.</string>
+    <string name="donation_movie_info">Kaufe mir ein Film-Ticket</string>
+    <string name="donation_dinner_info">Kaufe mir eine Pizza und eine Coke</string>
+    <string name="donation_ads_info">Hilf mir, die App frei von Werbung zu halten</string>
+    <string name="donation_all_apps_info">Hilf mir bei der App-Erstellung</string>
+    <string name="donation_super_info">Super-Duper Unterstützung &#10084;\nMit diese Spende hole ich ein neues Testgerät und einen neuen Laptop.</string>
 </resources>
